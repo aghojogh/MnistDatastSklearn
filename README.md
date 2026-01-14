@@ -1,4 +1,4 @@
-# MNIST Datast Classification by Basic Machine Learning
+# MNIST Dataset Classification by Basic Machine Learning
 
 A handwritten digit classifier using basic machine learning (scikit-learn) on the MNIST dataset, featuring data preprocessing, model training, performance evaluation, and visualization with Python machine learning libraries.
 
